@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 /// Palette de couleurs cohérente adaptée au sport
 class AppColors {
   // Couleurs principales
-  static const Color primary = Color(0xFF2196F3); // Bleu
-  static const Color primaryDark = Color(0xFF1976D2);
+  static const Color primary = Color(0xFF0D11C0); // Bleu
+  static const Color primaryDark = Color(0xFF1117D0);
   static const Color primaryLight = Color(0xFF64B5F6);
 
   // Couleurs secondaires
